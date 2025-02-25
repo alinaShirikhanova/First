@@ -3,4 +3,4 @@ commit2
 commit3
 user2
 user1
-commit from user1
+merged commit
